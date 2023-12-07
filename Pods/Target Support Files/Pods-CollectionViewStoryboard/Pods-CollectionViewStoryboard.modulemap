@@ -1,0 +1,6 @@
+framework module Pods_CollectionViewStoryboard {
+  umbrella header "Pods-CollectionViewStoryboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
